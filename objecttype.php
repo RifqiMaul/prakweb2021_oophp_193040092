@@ -62,7 +62,7 @@ $produk2 = new Produk("Uncharted", "Neil Druckmann", "Sony Computer", 2500000);
 
 echo "Komik : " . $produk1->getLabel();
 echo "<br>";
-echo "Game : " . $produk2->getLabel();
+echo "Game : " . $produkd2->getLabel();
 echo "<br>";
 // var_dump ($produk3);
 
